@@ -123,7 +123,7 @@ Highlight word in DT in shiny based on regex
 [https://rdrr.io/cran/quanteda/man/nsentence.html](https://rdrr.io/cran/quanteda/man/nsentence.html)
 
 **Stemming**
-[https://smltar.com/stemming.html)
+[https://smltar.com/stemming.html](https://smltar.com/stemming.html)
 
 **pairwiseAlignment: Optimal Pairwise Alignment**
-[https://www.rdocumentation.org/packages/Biostrings/versions/2.40.2/topics/pairwiseAlignment)
+[https://www.rdocumentation.org/packages/Biostrings/versions/2.40.2/topics/pairwiseAlignment](https://www.rdocumentation.org/packages/Biostrings/versions/2.40.2/topics/pairwiseAlignment)
